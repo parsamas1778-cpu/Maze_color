@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "parsa.mas1778",
+  "orientation": "landscape",
+  "scope": "/",
+  "short_name": "parsa.mas1778",
+  "start_url": ".\\",
+  "theme_color": "#eef7ee",
+  "lang": "en"
+}
