@@ -1,0 +1,9 @@
+{
+  "name": "Maze Colour",
+  "short_name": "Maze Colour",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape"
+}
